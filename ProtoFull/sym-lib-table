@@ -2,4 +2,5 @@
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "F:/Git/Keyboard_Projects/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "F:/Git/Keyboard_Projects/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "F:/Git/Keyboard_Projects/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "IS31FL3741A")(type "KiCad")(uri "F:/Git/Keyboard_Projects/Symbols/is31fl3741.kicad_sym")(options "")(descr ""))
 )
