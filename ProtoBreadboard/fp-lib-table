@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "F:/Git/Keyboard_Projects/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "F:/Git/Keyboard_Projects/Type-C.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "F:/Git/Keyboard_Projects/KiCad Lib/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "F:/Git/Keyboard_Projects/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "KiCad Lib")(type "KiCad")(uri "F:/Git/Keyboard_Projects/KiCad Lib")(options "")(descr ""))
+  (lib (name "Breadboard")(type "KiCad")(uri "F:/Git/Keyboard_Projects/Breadboard Lib/Breadboard.pretty")(options "")(descr ""))
+)
