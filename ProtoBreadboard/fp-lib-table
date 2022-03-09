@@ -5,4 +5,5 @@
   (lib (name "MX_Only")(type "KiCad")(uri "F:/Git/Keyboard_Projects/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "KiCad Lib")(type "KiCad")(uri "F:/Git/Keyboard_Projects/KiCad Lib")(options "")(descr ""))
   (lib (name "Breadboard")(type "KiCad")(uri "F:/Git/Keyboard_Projects/Breadboard Lib/Breadboard.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "F:/Git/Keyboard_Projects/Panelization.pretty")(options "")(descr ""))
 )
