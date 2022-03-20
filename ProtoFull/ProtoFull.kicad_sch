@@ -6292,7 +6292,7 @@
     (uuid 3be384a3-611a-4689-8b31-165c4fb97bc9)
     (property "Reference" "D13" (id 0) (at 109.855 358.14 0))
     (property "Value" "GREEN" (id 1) (at 102.616 358.14 0))
-    (property "Footprint" "CHIPLED_0603_NOOUTLINE" (id 2) (at 105.41 359.41 0)
+    (property "Footprint" "" (id 2) (at 105.41 359.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 105.41 359.41 0)
@@ -6311,7 +6311,7 @@
     (property "Value" "IS31FL3741" (id 1) (at 250.19 193.04 0)
       (effects (font (size 1.27 1.0795)) (justify left bottom))
     )
-    (property "Footprint" "QFN60_7MM" (id 2) (at 262.89 129.54 0)
+    (property "Footprint" "" (id 2) (at 262.89 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 262.89 129.54 0)
@@ -6406,7 +6406,7 @@
     (property "Value" "SOLDERJUMPER" (id 1) (at 270.51 345.44 0)
       (effects (font (size 1.27 1.0795)) (justify left bottom))
     )
-    (property "Footprint" "SOLDERJUMPER_ARROW_NOPASTE" (id 2) (at 266.7 342.9 0)
+    (property "Footprint" "" (id 2) (at 266.7 342.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 266.7 342.9 0)
@@ -7439,7 +7439,7 @@
     (property "Value" "BSS138" (id 1) (at 179.07 367.03 0)
       (effects (font (size 1.27 1.0795)) (justify left bottom))
     )
-    (property "Footprint" "SOT363" (id 2) (at 177.8 361.95 0)
+    (property "Footprint" "" (id 2) (at 177.8 361.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 177.8 361.95 0)
@@ -7650,7 +7650,7 @@
     (property "Value" "UG-2864HSWEG01" (id 1) (at 299.72 381 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "UG-2864HSWEG01_1.3_WRAPAROUND" (id 2) (at 322.58 337.82 0)
+    (property "Footprint" "" (id 2) (at 322.58 337.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 322.58 337.82 0)
@@ -7697,7 +7697,7 @@
     (property "Value" "BSS138" (id 1) (at 168.91 377.19 0)
       (effects (font (size 1.27 1.0795)) (justify left bottom))
     )
-    (property "Footprint" "SOT363" (id 2) (at 167.64 372.11 0)
+    (property "Footprint" "" (id 2) (at 167.64 372.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 167.64 372.11 0)
@@ -8154,7 +8154,7 @@
     (property "Value" "AP2112K-3.3" (id 1) (at 49.53 364.49 0)
       (effects (font (size 1.27 1.0795)) (justify left bottom))
     )
-    (property "Footprint" "SOT23-5" (id 2) (at 57.15 356.87 0)
+    (property "Footprint" "" (id 2) (at 57.15 356.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 57.15 356.87 0)
@@ -8176,7 +8176,7 @@
     (property "Value" "SOLDERJUMPERCLOSED" (id 1) (at 284.48 356.87 0)
       (effects (font (size 1.27 1.0795)) (justify left bottom))
     )
-    (property "Footprint" "SOLDERJUMPER_CLOSEDWIRE" (id 2) (at 287.02 353.06 0)
+    (property "Footprint" "" (id 2) (at 287.02 353.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 287.02 353.06 0)
@@ -8655,7 +8655,7 @@
       (reference "D12") (unit 1) (value "LED_YELLOW") (footprint "")
     )
     (path "/3be384a3-611a-4689-8b31-165c4fb97bc9"
-      (reference "D13") (unit 1) (value "GREEN") (footprint "CHIPLED_0603_NOOUTLINE")
+      (reference "D13") (unit 1) (value "GREEN") (footprint "")
     )
     (path "/c1b5c04b-ab1a-4fda-a1fc-51b5d0513ce4"
       (reference "F1") (unit 1) (value "1A") (footprint "Fuse:Fuse_1206_3216Metric")
@@ -8676,10 +8676,10 @@
       (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "SamacSys_Parts:MXOnly-1U-NoLED_3Pins")
     )
     (path "/c9db1c7a-6507-4d61-b504-2d7dc9e8f7de"
-      (reference "Q1") (unit 1) (value "BSS138") (footprint "SOT363")
+      (reference "Q1") (unit 1) (value "BSS138") (footprint "")
     )
     (path "/ac3fdcbb-4c48-4df8-b03e-fefd52c64a65"
-      (reference "Q1") (unit 2) (value "BSS138") (footprint "SOT363")
+      (reference "Q1") (unit 2) (value "BSS138") (footprint "")
     )
     (path "/246d4f1e-d0c8-4322-8e19-fc45f445ab98"
       (reference "R1") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -8757,10 +8757,10 @@
       (reference "R22") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/431c1da1-02e7-418b-86af-e03aec778d3e"
-      (reference "SJ1") (unit 1) (value "SOLDERJUMPER") (footprint "SOLDERJUMPER_ARROW_NOPASTE")
+      (reference "SJ1") (unit 1) (value "SOLDERJUMPER") (footprint "")
     )
     (path "/f2271207-6fd1-4c24-99f5-29a1f078a658"
-      (reference "SJ2") (unit 1) (value "SOLDERJUMPERCLOSED") (footprint "SOLDERJUMPER_CLOSEDWIRE")
+      (reference "SJ2") (unit 1) (value "SOLDERJUMPERCLOSED") (footprint "")
     )
     (path "/bf788b48-e4d3-4e3f-a55a-e725955e8659"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
@@ -8778,16 +8778,16 @@
       (reference "U2") (unit 1) (value "AT90USB1286-AU") (footprint "SamacSys_Parts:AT90USB1286-AU")
     )
     (path "/c8640ec3-d706-41e6-8319-0ce72026615c"
-      (reference "U3") (unit 1) (value "UG-2864HSWEG01") (footprint "UG-2864HSWEG01_1.3_WRAPAROUND")
+      (reference "U3") (unit 1) (value "UG-2864HSWEG01") (footprint "")
     )
     (path "/f0fcc5f6-1571-4c72-b648-71bdb560be87"
-      (reference "U4") (unit 1) (value "AP2112K-3.3") (footprint "SOT23-5")
+      (reference "U4") (unit 1) (value "AP2112K-3.3") (footprint "")
     )
     (path "/976416f1-f46a-461b-8803-72085c8434d4"
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type-C:HRO-TYPE-C-31-M-12")
     )
     (path "/403ba84f-94b3-4488-8350-ec0ce6e87e0b"
-      (reference "X1") (unit 1) (value "IS31FL3741") (footprint "QFN60_7MM")
+      (reference "X1") (unit 1) (value "IS31FL3741") (footprint "")
     )
     (path "/47876792-b1d9-4826-b4a3-ca899dd41374"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
