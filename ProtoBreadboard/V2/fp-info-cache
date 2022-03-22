@@ -1,4 +1,4 @@
-20058422310624941
+20068309630341160
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74620,6 +74620,20 @@ mouse-bite-2mm-slot-1-side
 0
 0
 Panelization
+mouse-bite-2mm-slot-5mm-width
+
+
+0
+0
+0
+Panelization
+mouse-bite-2mm-slot-5mm-width-1-side
+
+
+0
+0
+0
+Panelization
 mouse-bite-3mm-slot
 
 
@@ -74628,6 +74642,34 @@ mouse-bite-3mm-slot
 0
 Panelization
 mouse-bite-5mm-slot
+
+
+0
+0
+0
+Panelization_2
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+Panelization_2
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+Panelization_2
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+Panelization_2
+mouse-bite-3mm-slot
 
 
 0

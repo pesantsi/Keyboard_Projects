@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Panelization")(type "KiCad")(uri "F:/Git/Keyboard_Projects/Panelization.pretty")(options "")(descr ""))
+  (lib (name "Panelization_2")(type "KiCad")(uri "F:/Git/Keyboard_Projects/kicad_libs/Panelization.pretty")(options "")(descr ""))
 )
