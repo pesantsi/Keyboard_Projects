@@ -1,4 +1,4 @@
-20403286346545755
+20403305784735658
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -75733,13 +75733,6 @@ mouse-bite-2mm-slot
 0
 0
 Panelization
-mouse-bite-2mm-slot-1-side
-
-
-0
-0
-0
-Panelization
 mouse-bite-3mm-slot
 
 
@@ -79666,6 +79659,13 @@ Switch (2-Pin Push)
 0
 2
 2
+SamacSys_Parts
+TYPE-C-31-M-12
+
+
+0
+20
+17
 SamacSys_Parts
 XZMDKCBDDG45S9
 XZMDKCBDDG45S-9-1
